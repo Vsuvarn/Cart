@@ -1,4 +1,4 @@
-### Cart app
+### Cart app ( dark mode not configured)
 
 - category wise item display 
 - item total on cart
@@ -12,8 +12,8 @@
 | @reduxjs/toolkit| state management data fetching and caching |
 |react-native-paper  |Material Design library for ui|
 
-##### The APK size 65.4 MB because i am use Expo it's universal native apps  
+##### The APK size is 65.4 MB because I use Expo its universal native apps  
 ### Steps
 - `npm install` and `cd ios `after `pod install `
 - `npm start `
-- its on web browser and android or ios(with using expo go app ) 
+- it's on a web browser and Android or ios(using the Expo Go app ) 
